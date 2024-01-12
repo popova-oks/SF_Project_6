@@ -1,0 +1,23 @@
+[
+    {
+        "isAutorized": "true",
+        "key": "1",
+        "login": "oxa",
+        "name": "oxana",
+        "password": "40bd001563085fc35165329ea1ff5c5ecbdbbeef"
+    },
+    {
+        "isAutorized": "true",
+        "key": "1",
+        "login": "max",
+        "name": "maxim",
+        "password": "51eac6b471a284d3341d8c0c63d0f1a286262a18"
+    },
+    {
+        "isAutorized": "false",
+        "key": "1",
+        "login": "ant",
+        "name": "anton",
+        "password": "fc1200c7a7aa52109d762a9f005b149abef01479"
+    }
+]

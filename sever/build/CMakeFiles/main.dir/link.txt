@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/Chat.cpp.o CMakeFiles/main.dir/src/ClientCode.cpp.o CMakeFiles/main.dir/src/jsonHandler.cpp.o CMakeFiles/main.dir/src/Messages.cpp.o CMakeFiles/main.dir/src/sha1.cpp.o CMakeFiles/main.dir/src/User.cpp.o -o main 
